@@ -1,7 +1,7 @@
 {
   "name": "xboot-plus-front",
   "version": "1.2.0",
-  "description": "XBoot前后端分离开发平台",
+  "description": "密码共享平台",
   "author": "Exrick <1012139570@qq.com>",
   "private": true,
   "scripts": {

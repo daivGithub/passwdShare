@@ -5,7 +5,7 @@
         <Header />
         <Row v-if="!error&&!authLoading">
           <Tabs value="1">
-            <TabPane label="XBoot统一认证平台" name="1" icon="md-people">
+            <TabPane label="统一认证平台" name="1" icon="md-people">
               <Form ref="loginForm" :model="form" :rules="rules" class="form">
                 <FormItem prop="username">
                   <Input

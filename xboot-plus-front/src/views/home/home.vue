@@ -70,7 +70,7 @@
                       <a href="http://xpay.exrick.cn" target="_blank">XPay开源个人免签支付系统</a>
                     </TimelineItem>
                     <TimelineItem>
-                      <Icon type="md-people" color="#57a3f3" slot="dot"></Icon>QQ交流群 475743731(付费) 562962309(免费)
+                      <Icon type="md-people" color="#57a3f3" slot="dot"></Icon>QQ交流群 475743731 562962309(免费)
                     </TimelineItem>
                   </Timeline>
                 </div>

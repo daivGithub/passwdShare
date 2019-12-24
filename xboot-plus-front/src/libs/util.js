@@ -9,7 +9,7 @@ let util = {
 };
 
 util.title = function (title) {
-    title = title || 'XBoot 前后端分离开发平台';
+    title = title || '密码共享平台';
     window.document.title = title;
 };
 
@@ -445,7 +445,7 @@ util.initRouterNode = function (routers, data) {
         let meta = {};
         // 给页面添加权限、标题、第三方网页链接
         meta.permTypes = menu.permTypes ? menu.permTypes : null;
-        meta.title = menu.title ? menu.title + " - XBoot前后端分离开发平台 By: Exrick" : null;
+        meta.title = menu.title ? menu.title + "By: Exrick" : null;
         meta.url = menu.url ? menu.url : null;
         menu.meta = meta;
 

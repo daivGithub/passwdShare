@@ -5,7 +5,7 @@
         <Header />
         <Row v-if="!relateLoading">
           <Tabs value="1">
-            <TabPane label="绑定XBoot账号" name="1" icon="md-person-add">
+            <TabPane label="绑定账号" name="1" icon="md-person-add">
               <Form ref="relateLoginForm" :model="form" :rules="rules" class="form">
                 <FormItem prop="username">
                   <Input
